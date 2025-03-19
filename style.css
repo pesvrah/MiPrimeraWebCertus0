@@ -160,12 +160,12 @@ img{
     width: 49%;
     margin: 4px 6px;
     border-radius: 20px;
-    opacity: 0; /* La imagen es completamente invisible */
+    opacity: 0; 
     transition: opacity 1s ease-in-out;
 }
 
 img:hover {
-    opacity: 1; /* La imagen aparece cuando pasas el cursor */
+    opacity: 1; 
 }
 
 .puntos{
